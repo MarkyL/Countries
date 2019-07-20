@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_area">Sort by area</string>
+    <string name="serial">Serial</string>
+    <string name="name">Name</string>
+    <string name="native_name">Native name</string>
+
+    <string name="action_bar_title_country">Country</string>
+</resources>
